@@ -1,0 +1,7 @@
+package com.wipro.Repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface IMedRepository extends JpaRepository<T, ID> {
+
+}

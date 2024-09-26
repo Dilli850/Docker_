@@ -1,0 +1,5 @@
+FROM openjdk:17
+EXPOSE 4041
+COPY  target/SpringDataJpa-4.war
+
+ENTRYPOINT [ "java","-jar","SpringDataJpa-4" ]

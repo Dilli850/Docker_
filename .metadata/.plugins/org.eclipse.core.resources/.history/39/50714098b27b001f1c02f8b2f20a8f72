@@ -1,0 +1,13 @@
+package com.wipro.service;
+
+import com.wipro.entity.MedicalReport;
+
+public class MedicalService implements IMedServiceMgmt {
+
+	@Override
+	public String registermedicalReport(MedicalReport report) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

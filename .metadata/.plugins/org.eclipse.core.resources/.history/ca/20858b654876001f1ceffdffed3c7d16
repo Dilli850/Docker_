@@ -1,0 +1,26 @@
+package com.wipro.runner;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.stereotype.Component;
+
+import com.wipro.entity.Employee;
+import com.wipro.service.IEmployeeServiceMgmt;
+@Component
+public class EmployeeRunner implements CommandLineRunner {
+@Autowired
+private IEmployeeServiceMgmt employeeServiceMgmt;
+	@Override
+	public void run(String... args) throws Exception {
+		
+		// TODO Auto-generated method stub
+		List<Employee> list=new ArrayList<>();
+		String msg=employeeServiceMgmt.EmployeeRegister(employee);
+		System.out.println(msg);
+
+	}
+
+}

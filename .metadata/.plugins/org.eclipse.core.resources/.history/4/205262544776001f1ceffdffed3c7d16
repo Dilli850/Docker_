@@ -1,0 +1,27 @@
+package com.wipro.entity;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.SequenceGenerator;
+import jakarta.persistence.Table;
+import lombok.Data;
+
+@Entity
+@Data
+@Table(name="Employee_Info")
+public class Employee {
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	@SequenceGenerator(name="gen1",sequenceName = "emp_seq",initialValue = 1,allocationSize = 1000)
+	private Integer EmpId;
+	@Column(length = 30)
+	private String EmpName;
+	@Column(length = 30)
+	private String EmpDept;
+	
+	private Double EmpSal;
+
+}
