@@ -2264,3 +2264,15 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-26 12:20:07.592
+!MESSAGE Classpath changed for project: SpringRest-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-26 12:20:07.593
+!MESSAGE Boot project ADDED: SpringRest-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-26 12:20:09.612
+!MESSAGE Classpath changed for project: SpringRest-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-26 12:20:13.800
+!MESSAGE Classpath changed for project: SpringRest-1

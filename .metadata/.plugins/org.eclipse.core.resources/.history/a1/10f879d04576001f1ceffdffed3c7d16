@@ -1,7 +1,0 @@
-package com.wipro.Repository;
-
-import org.springframework.data.repository.CrudRepository;
-
-public interface IEmployeeRepository extends CrudRepository<T, ID> {
-
-}

@@ -1,7 +1,0 @@
-package com.wipro.service;
-
-import com.wipro.entity.Employee;
-
-public interface IEmployeeServiceMgmt {
-public String EmployeeRegister(Employee employee);
-}
