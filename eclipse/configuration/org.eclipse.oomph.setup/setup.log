@@ -2365,3 +2365,25 @@
 [2024-09-17 16:34:18] Performing Eclipse Ini -Djava.security.manager=allow
 [2024-09-17 16:34:18] Performing post bootstrap tasks
 [2024-09-17 16:34:18] 
+[2024-09-30 15:50:25] Executing startup tasks
+[2024-09-30 15:50:26] OpenJDK Runtime Environment 22.0.2+9
+[2024-09-30 15:50:26] Product org.eclipse.products.epp.package.jee.2024-09
+[2024-09-30 15:50:26] Workspace C:\Users\BAIPALLI DILLEERAO\OneDrive\Desktop\Java
+[2024-09-30 15:50:26] Bundle org.eclipse.oomph.setup 1.29.0.v20240723-0951, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-09-30 15:50:26] Bundle org.eclipse.oomph.setup.core 1.31.0.v20240420-0837, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-09-30 15:50:26] Bundle org.eclipse.oomph.setup.p2 1.21.0.v20240420-0837, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-09-30 15:50:26] Performing Preference /instance/org.eclipse.core.resources/encoding
+[2024-09-30 15:50:26] Performing Preference /instance/org.eclipse.core.resources/refresh.lightweight.enabled = false
+[2024-09-30 15:50:26] Performing Preference /instance/org.eclipse.ui.editors/lineNumberRuler = false
+[2024-09-30 15:50:26] Performing Preference /instance/org.eclipse.ui.editors/spellingEnabled = false
+[2024-09-30 15:50:26] Performing Preference /instance/org.eclipse.ui.workbench/RUN_IN_BACKGROUND = false
+[2024-09-30 15:50:26] 
+[2024-09-30 15:54:16] Executing startup tasks
+[2024-09-30 15:54:16] OpenJDK Runtime Environment 22.0.2+9
+[2024-09-30 15:54:16] Product org.eclipse.products.epp.package.jee.2024-09
+[2024-09-30 15:54:16] Workspace C:\Users\BAIPALLI DILLEERAO\OneDrive\Desktop\Java
+[2024-09-30 15:54:16] Bundle org.eclipse.oomph.setup 1.29.0.v20240723-0951, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-09-30 15:54:16] Bundle org.eclipse.oomph.setup.core 1.31.0.v20240420-0837, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-09-30 15:54:16] Bundle org.eclipse.oomph.setup.p2 1.21.0.v20240420-0837, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-09-30 15:54:16] Performing Preference /instance/org.eclipse.core.resources/encoding
+[2024-09-30 15:54:16] 
