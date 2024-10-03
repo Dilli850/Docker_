@@ -2387,3 +2387,21 @@
 [2024-09-30 15:54:16] Bundle org.eclipse.oomph.setup.p2 1.21.0.v20240420-0837, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
 [2024-09-30 15:54:16] Performing Preference /instance/org.eclipse.core.resources/encoding
 [2024-09-30 15:54:16] 
+[2024-10-02 10:58:15] Executing startup tasks
+[2024-10-02 10:58:15] OpenJDK Runtime Environment 22.0.2+9
+[2024-10-02 10:58:15] Product org.eclipse.products.epp.package.jee.2024-09
+[2024-10-02 10:58:15] Workspace C:\Users\BAIPALLI DILLEERAO\OneDrive\Desktop\Java
+[2024-10-02 10:58:15] Bundle org.eclipse.oomph.setup 1.29.0.v20240723-0951, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-10-02 10:58:15] Bundle org.eclipse.oomph.setup.core 1.31.0.v20240420-0837, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-10-02 10:58:15] Bundle org.eclipse.oomph.setup.p2 1.21.0.v20240420-0837, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-10-02 10:58:15] Performing Preference /instance/org.eclipse.core.resources/encoding
+[2024-10-02 10:58:15] 
+[2024-10-02 12:33:20] Executing startup tasks
+[2024-10-02 12:33:20] OpenJDK Runtime Environment 22.0.2+9
+[2024-10-02 12:33:20] Product org.eclipse.products.epp.package.jee.2024-09
+[2024-10-02 12:33:20] Workspace C:\Users\BAIPALLI DILLEERAO\OneDrive\Desktop\Java
+[2024-10-02 12:33:20] Bundle org.eclipse.oomph.setup 1.29.0.v20240723-0951, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-10-02 12:33:20] Bundle org.eclipse.oomph.setup.core 1.31.0.v20240420-0837, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-10-02 12:33:20] Bundle org.eclipse.oomph.setup.p2 1.21.0.v20240420-0837, build=756, branch=8f937af4325fb2002f1f88d65d3beafffb760f16
+[2024-10-02 12:33:20] Performing Preference /instance/org.eclipse.core.resources/encoding
+[2024-10-02 12:33:20] 
